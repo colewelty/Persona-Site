@@ -1,0 +1,13 @@
+$white: #FFFFFF;
+$light-grey: #D1D1D1;
+$bg-grey: #1a1a1a;
+$black: #000000;
+$blue: #34BFFF;
+
+$oswald-font-stack: "Oswald", "Arial Narrow", Arial, sans-serif;
+$opensans-font-stack: "Open Sans", Arial, sans-serif;
+
+
+@import 'base';
+@import 'type';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400i,700|Oswald:700');

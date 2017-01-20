@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400i,700|Oswald:700");
+html,
+body {
+  background: #FFFFFF;
+  margin: 0;
+  padding: 0; }
+
+div {
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6, blockquote {
+  margin: 0; }
+
+cite {
+  font-style: normal; }
+
+ol, ul {
+  list-style: none;
+  padding: 0; }
+
+a img {
+  border: none; }
+
+article, aside, canvas, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block; }
+
+/* RWD Resets
+-------------------------------------------------------------- */
+@-ms-viewport {
+  width: device-width; }
+
+@viewport {
+  width: device-width; }
+
+html {
+  overflow-y: auto; }
+
+img, video {
+  max-width: 100%;
+  height: auto; }
+
+body {
+  color: #D1D1D1;
+  background: #1a1a1a;
+  margin: 0;
+  line-height: 1.5;
+  font-size: 100%; }
+
+::selection, ::-moz-selection {
+  background: #34BFFF;
+  color: #FFFFFF;
+  text-shadow: none; }
+
+a {
+  text-decoration: none;
+  color: #34BFFF;
+  transition: color 0.2s ease-out; }
+
+a:hover {
+  color: rgba(0, 0, 0, 0.4); }
+
+h1 {
+  color: #FFFFFF;
+  font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
+  font-size: 187.5%;
+  text-transform: uppercase;
+  letter-spacing: 5px; }
+
+h2 {
+  color: #FFFFFF;
+  font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
+  font-size: 150%;
+  text-transform: uppercase;
+  letter-spacing: 5px; }
+
+h3 {
+  color: #FFFFFF;
+  font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
+  font-size: 130%;
+  text-transform: uppercase;
+  letter-spacing: 5px; }
+
+h4 {
+  color: #FFFFFF;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 125%;
+  font-weight: 300; }
+
+h5 {
+  color: #FFFFFF;
+  font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
+  font-size: 187.5%;
+  text-transform: uppercase;
+  letter-spacing: 5px; }
+
+h6 {
+  color: #FFFFFF;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px; }
+
+p {
+  color: #FFFFFF;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 100%;
+  font-weight: 300; }
+
+em, i {
+  font-style: italic; }

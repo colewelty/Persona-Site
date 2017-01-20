@@ -1,0 +1,59 @@
+
+h1{
+  color: $white;
+  font-family: $oswald-font-stack;
+  font-size: 187.5%;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+h2{
+  color: $white;
+  font-family: $oswald-font-stack;
+  font-size: 150%;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+h3{
+  color: $white;
+  font-family: $oswald-font-stack;
+  font-size: 130%;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+h4{
+  color: $white;
+  font-family: $opensans-font-stack;
+  font-size: 125%;
+  font-weight: 300
+}
+
+h5{
+  color: $white;
+  font-family: $oswald-font-stack;
+  font-size: 187.5%;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+h6{
+  color: $white;
+  font-family: $opensans-font-stack;
+  font-size: 100%;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+p{
+  color: $white;
+  font-family: $opensans-font-stack;
+  font-size: 100%;
+  font-weight: 300;
+}
+
+em, i {
+  font-style: italic;
+}
